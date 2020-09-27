@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_answer">QuizApp</string>
+    <string name="false_answer">QuizApp</string>
+    <string name="quiz_general">Goldfish only have a memory of three seconds </string>
+    <string name="quiz_general1">The capital of Libya is Benghazi</string>
+    <string name="quiz_general2">An octopus has five hearts </string>
+    <string name="quiz_general3">The first tea bags were made of silk </string>
+    <string name="quiz_general4">A woman has walked on the moon </string>
+    <string name="quiz_general5">The currency of France is the Franc </string>
+    <string name="quiz_general6">The Great Wall of China is visible from space </string>
+    <string name="is_correct">That\' s Correct !</string>
+    <string name="is_incorrect">That\' s Incorrect !</string>
+
+
+</resources>
